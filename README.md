@@ -55,4 +55,3 @@ The C modules separate model linearization, prediction matrices, constraints, co
 ## Provenance and publication
 
 The source archive identifies this material as property of the Sunspear supersonic rocket project. That attribution is preserved here. Confirm that you have permission to publish the team's code and datasets before making this repository public. No open-source license is included because the source material does not grant one.
-

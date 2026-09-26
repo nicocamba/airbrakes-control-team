@@ -1,0 +1,25 @@
+# Python environments and bytecode
+.venv/
+venv/
+rocket_env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated simulations and exports
+simulation/rocketpy/results/
+*.kml
+*.xlsx
+
+# MATLAB generated files
+*.asv
+slprj/
+codegen/
+
+# C build products
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
